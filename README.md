@@ -1,4 +1,4 @@
-# Nx01 init ws yarn * github
+### Nx01 init ws yarn * github
 yarn create nx-workspace my-app --package-manager=yarn <br>
 cd my-app <br>
 git init <br>
